@@ -4,5 +4,4 @@ Determining whether a patient admitted to an ICU has been diagnosed with a parti
 ### Competition Website
 https://www.kaggle.com/c/widsdatathon2021
 
-### Rank 
-86/808 (Top 11%)
+
